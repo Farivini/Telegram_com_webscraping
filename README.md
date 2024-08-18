@@ -70,12 +70,3 @@ Confira abaixo um GIF mostrando o bot em ação:
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do projeto, implementar suas mudanças e enviar um pull request.
-
----
-
-
-
-Esse README agora inclui emojis para torná-lo mais interativo e visualmente atraente, além de mencionar o GIF para mostrar a funcionalidade do bot. Está pronto para ser adicionado ao seu repositório!
