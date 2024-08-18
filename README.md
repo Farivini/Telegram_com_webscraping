@@ -1,6 +1,5 @@
 # Telegram_com_webscraping
 
-![Bot Rodando](20201218_223055.gif) 
 
 
 
@@ -34,7 +33,8 @@ O objetivo principal deste projeto é demonstrar como criar um bot no Telegram q
 
 Confira abaixo um GIF mostrando o bot em ação:
 
-![Demonstração do Bot](link_para_o_gif.gif) 
+![Bot Rodando](20201218_223055.gif) 
+
 
 ## 🛠️ Como Executar o Projeto
 
