@@ -12,7 +12,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 global config
-config = {"url":"https://api.telegram.org/botTOKEN DO SEU BOT/", "lock":Lock(), 'url_file': 'https://api.telegram.org/file/bot1244807427:AAFURjNX9UmYowL-eMR89_-mVHX3SqwD1D0/'}
+config = {"url":"https://api.telegram.org/botTOKEN DO SEU BOT/", "lock":Lock(), 'url_file': 'https://api.telegram.org/file/bot1244807427:AA/'}
 
 
 def del_update(data):
